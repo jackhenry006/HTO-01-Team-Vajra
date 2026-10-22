@@ -1,0 +1,36 @@
+{
+  "name": "mesh-network-p2p",
+  "version": "1.0.0",
+  "description": "Disabled repository placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "dev": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "build": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "start": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "start:signaling": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "start:cloud": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "start:evosense": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "start:echolocate": "node -e \"console.log('Disabled build'); process.exit(1);\"",
+    "qr": "node -e \"console.log('Disabled build'); process.exit(1);\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "lucide-react": "^1.37.0",
+    "qrcode-terminal": "^0.12.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.3",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^2.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.2.2"
+  }
+}
